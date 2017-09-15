@@ -2,10 +2,10 @@
 Part I: Sound Signal
 1. Import the two songs into MATLAB and play them.
 2. Increase the sample rate of the song "long track" to double its original value. Play the
-sound and Save the new song (after changing the sample rate) to a .wav le (with a name
+sound and Save the new song (after changing the sample rate) to a .wav file (with a name
 of your choice).
 3. Reduce the sample rate of the song "short track" to one third of its original value. Play
-the sound and Save the new song (after changing the sample rate) to a .wav le (with a
+the sound and Save the new song (after changing the sample rate) to a .wav file (with a
 name of your choice).
 4. Fade in the rst 2 seconds of the song "long track" and Fade out the last 2 seconds of the
 same song. Play the sound.
